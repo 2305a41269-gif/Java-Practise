@@ -31,7 +31,6 @@ public class voting {
             System.out.println("\nInvalid choice! No vote recorded.");
         }
 
-        // --- Step 6: Show results ---
         System.out.println("\n--- Voting Results ---");
         System.out.println("Candidate A: " + votes[0] + " vote(s)");
         System.out.println("Candidate B: " + votes[1] + " vote(s)");
